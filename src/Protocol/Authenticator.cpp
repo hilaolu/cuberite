@@ -17,7 +17,7 @@
 
 
 
-#define DEFAULT_AUTH_SERVER "sessionserver.mojang.com"
+#define DEFAULT_AUTH_SERVER "sessionserver-mojang.apis.moe"
 #define DEFAULT_AUTH_ADDRESS "/session/minecraft/hasJoined?username=%USERNAME%&serverId=%SERVERID%"
 
 
